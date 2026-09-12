@@ -1,0 +1,24 @@
+{
+  "launcherArguments": [],
+  "launcherJvm11Arguments": [],
+  "launcherJvm11WindowsArguments": [],
+  "launcherJvm17Arguments": [],
+  "launcherJvm17MacArguments": [],
+  "launcherJvm17WindowsArguments": [],
+  "clientJvmArguments": [],
+  "clientJvm9Arguments": [],
+  "clientJvm17MacArguments": [],
+  "clientJvm17Arguments": [],
+  "artifacts": [
+    {
+      "hash": "3049e860cae51a63eb01ff99cfe82fc22127b3a6e378fc2813fdcf884af6fc20",
+      "name": "gamepack.jar",
+      "path": "https://xyrion.io/game/gamepack.jar",
+      "size": 13650625
+    }
+  ],
+  "updates": [],
+  "dependencyHashes": {
+    "gamepack.jar": "3049e860cae51a63eb01ff99cfe82fc22127b3a6e378fc2813fdcf884af6fc20"
+  }
+}
