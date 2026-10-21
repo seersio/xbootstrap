@@ -11,14 +11,14 @@
   "clientJvm17Arguments": [],
   "artifacts": [
     {
-      "hash": "960586d04e2cf835d226e45aa9b9ebb5df4c0471e7176591ba15ffe1527e1522",
+      "hash": "6629686a24429e2863617ff8b9bf5402cc547e6234847b4afa96db0e860f27fb",
       "name": "gamepack.jar",
       "path": "https://xyrion.io/game/gamepack.jar",
-      "size": 15303283
+      "size": 15745686
     }
   ],
   "updates": [],
   "dependencyHashes": {
-    "gamepack.jar": "960586d04e2cf835d226e45aa9b9ebb5df4c0471e7176591ba15ffe1527e1522"
+    "gamepack.jar": "6629686a24429e2863617ff8b9bf5402cc547e6234847b4afa96db0e860f27fb"
   }
 }
